@@ -1,5 +1,5 @@
 
-# Data Ingestion
+# Data Ingestion Accelerator
 
 ## Purpose
 This document provides an overview of a data ingestion process that enables seamless data transfer between different storage systems (Azure, AWS, SFTP, and Databases) using a JSON-based configuration file. The ingestion framework dynamically reads the JSON file to process data from defined sources to destinations with minimal manual effort.
